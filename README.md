@@ -34,12 +34,8 @@ I am a software engineer obsessed with building efficient, scalable, and maintai
 ![](https://komarev.com/ghpvc/?username=genoo78&color=red)
 
 
----
 
-### Visitor
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=genoo78&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=genoo78&layout=compact&theme=radical)
-![Visitor Count](https://komarev.com/ghpvc/?username=genoo78&color=red)
+---
 
 
 ### 🛠 Tools & Software
@@ -75,4 +71,5 @@ I am a software engineer obsessed with building efficient, scalable, and maintai
 
 
 ### 📫 Contact Me
-[LinkedIn](https://linkedin.com/in/ahmed-hafez-0009ba261 ) | ✉️ ahtamer027@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-hafez-0009ba261 )
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahtamer027.com)

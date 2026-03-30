@@ -62,17 +62,6 @@ I am a software engineer obsessed with building efficient, scalable, and maintai
 ---
 
 
-### 🛠 Currently Learning – .NET Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=yellow)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=purple)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=babyblue)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=orange)
-![MongoDB](https://img.shields.io/badge/MongoDB-DC382D?style=for-the-badge&logo=MongoDB&logoColor=green)
-
-
----
 ### 🎲 Side Projects
 - Elzahraa accomodation Project – Built with Node.js & Express  
 - Mini Game – Tic-Tac-Toe in Python & ML  

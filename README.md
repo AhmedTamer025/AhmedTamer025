@@ -31,7 +31,40 @@ I am a software engineer obsessed with building efficient, scalable, and maintai
 
 ![Total Commits](https://img.shields.io/badge/Commits-1000-blue)
 ![Repositories](https://img.shields.io/badge/Repos-10-green)
+![Visitor Count](https://profile-counter.glitch.me/AhmedTamer025/count.svg)
+
 ---
 
+### 🛠 Tools & Software
+- Visual Studio, Antigravity,Claude AI  
+- Git, GitHub  
+- MySQL, Sequalize ORM, Encryption  
+- JWT, Postman
+
+---
+
+### ⚡ Code Highlights
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-5000-blue)  
+![Pull Requests](https://img.shields.io/badge/PRs-15-green)
+
+
+---
+
+### 💻 Technical Skills
+| Backend | Frontend | Database | Tools |
+|---------|---------|---------|-------|
+| C#, Node.js | HTML, CSS, JS | SQL, ORM | Git |
+
+---
+
+
+### 🎲 Side Projects
+- Elzahraa accomodation Project – Built with Node.js & Express  
+- Mini Game – Tic-Tac-Toe in Python & ML  
+
+
+--
+
+
 ### 📫 Contact Me
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com) | ✉️ your.email@example.com
+[LinkedIn](https://linkedin.com/in/ahmed-hafez-0009ba261 ) | ✉️ ahtamer027@gmail.com

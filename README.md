@@ -31,6 +31,7 @@ I am a software engineer obsessed with building efficient, scalable, and maintai
 
 ![Total Commits](https://img.shields.io/badge/Commits-1000-blue)
 ![Repositories](https://img.shields.io/badge/Repos-10-green)
+![Repos](https://img.shields.io/github/repos/AhmedTamer025?color=red&style=for-the-badge)
 
 
 ---

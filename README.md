@@ -30,8 +30,8 @@ I am a software engineer obsessed with building efficient, scalable, and maintai
 ---
 
 ### 📊 GitHub Stats
-![Ahmed Tamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
+![AhmedTamer025's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedTamer025&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTamer025&layout=compact&hide_border=true)
 ---
 
 ### 📫 Contact Me

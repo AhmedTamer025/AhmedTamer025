@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed 
 
-<!--
-**AhmedTamer025/AhmedTamer025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer obsessed with building efficient, scalable, and maintainable applications while constantly learning new technologies and improving my coding skills. Passionate about backend development, APIs, and solving real-world problems.  
 
-Here are some ideas to get you started:
+🎓 **University:** Helwan University – Bachelor in Computer Science & AI  
+💼 **What I Do:** I design and implement backend systems, develop APIs, and build applications that solve real-world problems efficiently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Skills
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🚀 Projects
+| Project | Tech Stack | Link |
+|---------|-----------|------|
+| ATM Banking System | C++, OOP | [ATM-System](https://github.com/AhmedTamer025/ATM-System) |
+| Eary System Website | HTML, CSS, JS, Node.js, Express.js, SQL, APIs | [Eary-System](https://github.com/AhmedTamer025/Eary-System) |
+| Task Management System | C++, OOP, DS | [Task Management System](https://github.com/AhmedTamer025/Task-Management-System) |
+| Tik-Tac-Toe | Python, Numpy, Tkinter, HTML, CSS | [Tic-Tac-Toe](https://github.com/AhmedTamer025/Tic-Tac-Toe) |
+
+---
+
+### 📊 GitHub Stats
+![Ahmed Tamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+---
+
+### 📫 Contact Me
+[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com) | ✉️ your.email@example.com

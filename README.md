@@ -36,11 +36,11 @@ I am a software engineer obsessed with building efficient, scalable, and maintai
 ---
 
 
-### 📊 GitHub Stats
-![AhmedTamer025's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedTamer025&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTamer025&layout=compact&hide_border=true)
----
+### 👀 Profile Visitors
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=AhmedTamer025)
 
+
+---
 
 ### 🛠 Tools & Software
 - Visual Studio, Antigravity,Claude AI  

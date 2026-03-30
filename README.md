@@ -28,7 +28,7 @@ I am a software engineer obsessed with building efficient, scalable, and maintai
 | Tik-Tac-Toe | Python, Numpy, Tkinter, HTML, CSS | [Tic-Tac-Toe](https://github.com/AhmedTamer025/Tic-Tac-Toe) |
 
 ---
-
+### 📊 GitHub Stats
 ![Total Commits](https://img.shields.io/badge/Commits-1000-blue)
 ![Repositories](https://img.shields.io/badge/Repos-10-green)
 ![](https://komarev.com/ghpvc/?username=genoo78&color=red)
@@ -36,12 +36,11 @@ I am a software engineer obsessed with building efficient, scalable, and maintai
 
 ---
 
+### Visitor
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=genoo78&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=genoo78&layout=compact&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=genoo78&color=red)
 
-### 👀 Profile Visitors
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=AhmedTamer025)
-
-
----
 
 ### 🛠 Tools & Software
 - Visual Studio, Antigravity,Claude AI  

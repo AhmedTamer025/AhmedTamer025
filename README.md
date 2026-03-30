@@ -37,8 +37,7 @@ I am a software engineer obsessed with building efficient, scalable, and maintai
 
 
 ### 👀 Profile Visitors
-![Visitor Count](https://profile-counter.glitch.me/AhmedTamer025/count.svg)
-
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AhmedTamer025&countBg=%2379C83D&titleBg=%23555555&icon=github.svg&iconColor=%23FFFFFF&title=visitors&edgeRadius=10)
 
 ---
 

@@ -29,8 +29,8 @@ I am a software engineer obsessed with building efficient, scalable, and maintai
 
 ---
 
-https://github-readme-stats.vercel.app/api?username=ahmedtamer025&show_icons=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtamer025
+![Total Commits](https://img.shields.io/badge/Commits-1000-blue)
+![Repositories](https://img.shields.io/badge/Repos-10-green)
 ---
 
 ### 📫 Contact Me
